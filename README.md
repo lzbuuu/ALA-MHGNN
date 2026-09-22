@@ -1,2 +1,2 @@
-# FAMHGNN
-The code of FAMHGNN: Flow Matching-based Adaptive Feature Augmentation for Multiplex Heterogeneous Graph Neural Networks
+# ALA-MHGNN
+The code of ALA-MHGNN: Adaptive Local Augmentation for Multiplex Heterogeneous Graph Neural Networks
